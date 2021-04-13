@@ -14,6 +14,6 @@ I make ,
 
 ## My Public Discord Bot
 
-I have a Public Discord bot with many features and more than 500 command's 
+I have a Public Discord bot with many features and more than 500 command's .
 
 [Invite from here](https://lol.siya.ml/) 
