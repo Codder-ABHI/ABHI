@@ -6,9 +6,9 @@ I make ,
 
 - [Discord Bots](https://lol.siya.ml/) 
 
-- Games/Apps
-
 - [NPM Packages](https://www.npmjs.com/~abhi008) 
+
+- Games/Apps
 
 - API'S
 
